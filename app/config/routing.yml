@@ -1,0 +1,5 @@
+epita_events:
+    resource: "@EpitaEventsBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
